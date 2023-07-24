@@ -14,11 +14,12 @@ colors = [
     "#00413a",  # Verde
     "#da212a",  # Vermelho
 ]
+
 nomes = {
     "#f7941e": "Katrip",
-    "#9a1d28": "Estagiário 1",
-    "#00413a": "Estagiário 2",
-    "#da212a": "Estagiário 3",
+    "#9a1d28": "Pedro",
+    "#00413a": "Marlon",
+    "#da212a": "Enzo",
 }
 
 turtle_distance = 600 / (len(colors) - 1)
@@ -31,7 +32,7 @@ for i in range(len(colors)):
     turtle_list[i].penup()
 
 for i in range(len(colors)):
-    if nomes[colors[i]] in ["Katrip"]:
+    if nomes[colors[i]] in ["Katrip", "Enzo"]:
         turtle_list[i].goto(x=-500, y=300 - turtle_distance * i)
     else:
         turtle_list[i].goto(x=-400, y=300 - turtle_distance * i)

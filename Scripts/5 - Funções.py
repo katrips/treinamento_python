@@ -41,6 +41,11 @@ def dobrar_meta(meta):
 # print(saudação("Henrique"))  # Funções sem retorno definido, retornam None
 # print(dobrar_meta(5))  # Função com retorno definido
 
+# Lambda functions - Funções anônimas
+
+dobrar_meta = lambda x: x*2
+print_algo = lambda: print("Algo")
+
 # Importar bibliotecas
 
 import random as rd  # Importe bibliotecas no topo do código, é uma boa prática, está aqui somente por ilustração

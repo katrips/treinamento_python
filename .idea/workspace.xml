@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3d33794-8a4b-4e05-9740-c17bc0d9361a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/treinamento_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/treinamento_python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notebooks/2. Pandas/1. Series_Pandas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/2. Pandas/1. Series_Pandas.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notebooks/2. Pandas/2. DataFrames_Pandas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/2. Pandas/2. DataFrames_Pandas.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notebooks/2. Pandas/3. Tabelas Dinâmicas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/2. Pandas/3. Tabelas Dinâmicas.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notebooks/2. Pandas/4. Unir Tabelas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/2. Pandas/4. Unir Tabelas.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notebooks/2. Pandas/5. Funções no Pandas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/2. Pandas/5. Funções no Pandas.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notebooks/2. Pandas/6. Exportar DFs.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/2. Pandas/6. Exportar DFs.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notebooks/2. Pandas/outputs/campeonatos.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/2. Pandas/outputs/campeonatos.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notebooks/2. Pandas/outputs/campeonatos_brasil.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/2. Pandas/outputs/campeonatos_brasil.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notebooks/3. matplotlib/1. Introdução e Conceitos_matplotlib.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/3. matplotlib/1. Introdução e Conceitos_matplotlib.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notebooks/dados/Brasileirao/events_brasileirao_serie_a_2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/dados/Brasileirao/events_brasileirao_serie_a_2022.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notebooks/dados/Brasileirao/events_brasileirao_serie_b_2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/dados/Brasileirao/events_brasileirao_serie_b_2022.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notebooks/dados/Brasileirao/matches_brasileirao_serie_a_2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/dados/Brasileirao/matches_brasileirao_serie_a_2022.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notebooks/dados/Brasileirao/matches_brasileirao_serie_b_2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/dados/Brasileirao/matches_brasileirao_serie_b_2022.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/1 - Tipos Básicos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/1 - Tipos Básicos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/2 - Agrupamentos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/2 - Agrupamentos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/3 - Loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/3 - Loops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/4 - Condicional.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/4 - Condicional.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/5 - Funções.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/5 - Funções.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2T0D0b4vD3tHeqk9mlLf95NDzkL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>
